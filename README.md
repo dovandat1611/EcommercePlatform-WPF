@@ -1,7 +1,7 @@
-# EcommercePlatform-WPF
+# Product-Management-Application
 ## **Introduction**
 
-Welcome to **EcommercePlatform-WPF**, a web application that provides a seamless experience for users to manage their accounts, explore products, place orders, and view order details. This README file serves as a guide to help you understand the functionality and usage of the application.
+Welcome to **Product-Management-Application**, a web application that provides a seamless experience for users to manage their accounts, explore products, place orders, and view order details. This README file serves as a guide to help you understand the functionality and usage of the application.
 
 ## **Table of Contents**
 
